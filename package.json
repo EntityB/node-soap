@@ -1,5 +1,5 @@
 {
-  "name": "soap",
+  "name": "soap-eet",
   "version": "0.16.0",
   "description": "A minimal node SOAP client",
   "engines": {
